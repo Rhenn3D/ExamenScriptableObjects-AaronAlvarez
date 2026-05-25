@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Arma 1
   m_EditorClassIdentifier: 
   itemName: Arma 1
-  itemSprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
+  itemSprite: {fileID: 1030198583683863737, guid: 1a6dc13dcf028e947afb51db8cba9621, type: 3}
